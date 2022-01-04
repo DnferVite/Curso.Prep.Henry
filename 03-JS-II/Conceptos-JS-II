@@ -1,0 +1,12 @@
+//For: Es un ciclo que nos permite ejecutar un bloque de codigo segun las veces que sea necesario,
+//para utilizar el ciclo primero escribimos la palabra for seguido de unos parentesis donde dentro de
+// dichos parentesis iran tres cosas, primero declaramos una variable que nos permitira ir repitiendo
+//el bucle, segundo determinamos una condición, mientras esta condición sea verdadera el ciclo se ejecutara
+//cuando este sea falsa el ciclo se dejara de ejecutar, tercero se incrementa nuestra variable ya sea
+// de forma descendiente o ascendente segun la ocasión.Estos iran separados por punto y coma. Este ciclo 
+//nos permite no estar volviendo a reescribir el codigo y se dejara de ejecutar segun la condición que 
+//hallamos establecido.
+//&&: Este es el operador "Y"("AND"), la condición sera verdarera si ambas expresiones son verdaderas.
+//||: Este es el operador "Ó"("OR"), la condición sera verdadera si almenos una expresión es verdader
+// y sera falsa si ambas son falsas.
+//!: Este es el operador "NOT"("NO"), nos permite negar a la expresión que le pongamos en la parte delantera.
