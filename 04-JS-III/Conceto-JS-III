@@ -1,0 +1,5 @@
+Matrices: Una matriz en una lista , en la cual nos permite poder almacenar una serie de tipos de datos 
+es decir en una matriz podremos guardar diferentes tipo de datos ya sea una cadena de texto, un numero o 
+un booleano; quien cada elemento estara sepado por una coma dentro de corchetes, estos corchetes nos
+proporciona que nuestra variable es una matriz, en la cual podremos acceder a sus elementos en culaquier 
+momento, ubicando el indice en el que se encuentra, donde la posicion ira desde 0 hanta una n posición. 
